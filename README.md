@@ -1,3 +1,31 @@
+My Readme:
+
+User story 1:
+Store all of my friends’ birthdays so I can keep track of them
+See them all at once with their names and birthdays each on a line in a tidy format
+
+> add_birthday("Paula", "29th June")
+> "Birthday added"
+> show_birthdays
+> ["Paula: 29th June"]
+> add_birthday("Callum: 21st June")
+> show_birthdays
+> ["Paula: 29th June", "Callum: 21st June"]
+
+|INPUT|OUPUT|
+|------|------|
+|name  |
+|birthday |
+
+User story 2:
+Check whose birthday it is today - the program can check through the birthdays I have stored and check each one to see if it’s someone’s birthday, and tells me something like "It's Mary Poppin's birthday today! They are 124 years old!" - otherwise it won't say anything.
+
+
+
+
+
+
+
 ### Quick Start
 
 Fork this repository to your github account and clone it to your machine. Then install the dependencies:
